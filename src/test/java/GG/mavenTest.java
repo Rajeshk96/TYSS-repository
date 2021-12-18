@@ -1,3 +1,4 @@
+package GG;
 import org.testng.annotations.Test;
 
 public class mavenTest {
